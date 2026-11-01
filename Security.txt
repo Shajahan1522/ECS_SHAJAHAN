@@ -1,2 +1,4 @@
 NACL- Network access control list
 SG - Security group
+
+NAT Gateway - it will be used to private subnet to connect to acess internet
