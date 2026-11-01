@@ -1,0 +1,2 @@
+NACL- Network access control list
+SG - Security group
